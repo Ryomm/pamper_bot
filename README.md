@@ -6,5 +6,5 @@ directで動くbot
 
 ## 注意
 daabのディレクトリの直下にu_info.js,u_info.jsonを置き，  
-残りのファイルはscriptsディレクトリに置く 
+残りのファイルはscriptsディレクトリに置く  
 本番用はproductionブランチに有ります
